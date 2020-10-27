@@ -1,7 +1,14 @@
 
 
 [[ virtualization notebook ]]
-firefox HPUX-VIRT-notebook.html
+
+## View the notebook
+cd /tmp
+git clone https://github.com/illassbro/HPUX-virt-notebook
+firefox HPUX-virt-notebook/HPUX-VIRT-notebook.html
+
+
+
 
 
 
